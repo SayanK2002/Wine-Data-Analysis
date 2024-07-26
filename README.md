@@ -1,8 +1,11 @@
 # Wine-Data-Analysis
 Data Analysis + Data Visualisation + Prediction Modelling
 
-In this project, I have used 5 types of ML Models on the Wine Quality Dataset to predict the quality of the wine (whether it is of good quality or not)
-I have also performed Data Visualisation on the important trends available from the dataset.
+This project analyzes a wine quality dataset to understand the factors affecting wine quality. The analysis involves data visualization and data preprocessing for machine learning tasks. I have used various ML models in this project and compared their prediction accuracies. For this project, I have converted the target values to binary values (0 and 1) where each wine is either good quality(having a rating of 7 or more) or not (having a rating below 7).
+
+## Dataset
+
+The dataset used in this project is the Wine Quality dataset, characterized by 11 physicochemical properties such as acidity, pH, alcohol content and more.  Each sample is rated on a quality scale from 0 to 10, based on sensory data provided by wine experts. The dataset aims to explore the relationship between these chemical properties and the perceived quality of the wine, providing a rich ground for classification and regression analysis. The name of the dataset is 
 
 ML Models used:
 1. Logistic Regression
