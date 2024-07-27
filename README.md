@@ -52,7 +52,7 @@ The project consists of the following steps:
 
 Below is a screenshot of the accuracies achieved by the machine-learning models:
 
-![download](https://github.com/user-attachments/assets/022bfad6-042d-47e5-bdd7-b76d147097c0)
+![download](https://github.com/user-attachments/assets/5dc8ef48-05ae-427f-9213-5c7a6a91d4f0)
 
 ## Usage
 
